@@ -11,12 +11,13 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  theme: "dark"
+  theme: "light"
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Upptime** statuspage for Fernandez - webservices."
   introMessage: Uptime
+  css: "body { article {background: var(--body-background-color);} nav {background: var(--body-background-color);}article.down {background-color: var(--down-border-left-color);}article.degraded {border-left: 0.4rem solid;}article.up { background-color: var(--up-border-left-color);}}"
   navbar:
     - title: Status
       href: /
