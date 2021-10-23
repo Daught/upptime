@@ -13,7 +13,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   theme: "light"
   baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://www.handballkids.ch/fileadmin/files/Logo.png
   name: Upptime
   introTitle: "**Upptime** statuspage for Fernandez - webservices."
   introMessage: Uptime
