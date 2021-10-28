@@ -9,10 +9,10 @@ sites:
     url: http://dackeljordan.ch
   - name: Wikipedia
     url: https://en.wikipedia.org
-  - name: 3to5
-    url: https://www.3to5.ch/
-  - name: Daught
-    url: http://www.sebastianfernandez.ch/
+ # - name: 3to5
+ #   url: https://www.3to5.ch/
+ # - name: Daught
+ #   url: http://www.sebastianfernandez.ch/
 assignees: # Users to assign downtime issues (optional)
   - Daught
 
