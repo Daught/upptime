@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/dackeljordan.ch",
     "slug": "dackel-jordan",
     "status": "up",
-    "uptime": "99.84%",
+    "uptime": "99.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.84%",
-    "uptimeYear": "99.84%",
-    "time": 2202,
-    "timeDay": 3055,
-    "timeWeek": 3035,
-    "timeMonth": 2202,
-    "timeYear": 2202,
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.85%",
+    "time": 2229,
+    "timeDay": 3064,
+    "timeWeek": 3102,
+    "timeMonth": 2229,
+    "timeYear": 2229,
     "dailyMinutesDown": {
       "2021-10-23": 60
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 354,
-    "timeDay": 221,
-    "timeWeek": 216,
-    "timeMonth": 354,
-    "timeYear": 354,
+    "time": 350,
+    "timeDay": 175,
+    "timeWeek": 220,
+    "timeMonth": 350,
+    "timeYear": 350,
     "dailyMinutesDown": {}
   }
 ]
