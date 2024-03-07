@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 2257,
-    "timeDay": 1967,
-    "timeWeek": 2207,
-    "timeMonth": 2339,
-    "timeYear": 2239,
+    "time": 2256,
+    "timeDay": 1997,
+    "timeWeek": 2226,
+    "timeMonth": 2317,
+    "timeYear": 2237,
     "dailyMinutesDown": {
       "2023-12-22": 110,
       "2023-04-02": 30
@@ -27,17 +27,15 @@
     "slug": "wikipedia",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 231,
-    "timeDay": 199,
-    "timeWeek": 181,
-    "timeMonth": 192,
+    "timeDay": 287,
+    "timeWeek": 204,
+    "timeMonth": 200,
     "timeYear": 234,
-    "dailyMinutesDown": {
-      "2024-03-06": 8
-    }
+    "dailyMinutesDown": {}
   }
 ]
