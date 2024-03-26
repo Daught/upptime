@@ -4,7 +4,7 @@
     "url": "http://dackeljordan.ch",
     "icon": "https://icons.duckduckgo.com/ip3/dackeljordan.ch.ico",
     "slug": "dackel-jordan",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 2219,
     "timeYear": 2225,
     "dailyMinutesDown": {
+      "2024-03-26": 0,
       "2023-12-22": 110,
       "2023-04-02": 30
     }
