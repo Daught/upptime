@@ -1,7 +1,7 @@
 url: http://dackeljordan.ch
-status: up
-code: 200
-responseTime: 2163
-lastUpdated: 2025-01-15T23:08:41.077Z
+status: down
+code: 500
+responseTime: 854
+lastUpdated: 2025-01-16T13:55:08.827Z
 startTime: 2021-10-23T15:51:02.000Z
 generator: Upptime <https://github.com/upptime/upptime>
